@@ -1,4 +1,4 @@
-#                               Hi, I'm Shweta 👋
+# Hi, I'm Shweta 👋
 
 ---
 
